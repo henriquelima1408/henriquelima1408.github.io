@@ -21,8 +21,7 @@
 <body class="">
 
 <!-- Add your content of header -->
-<div class="background-color-layer" style="background-image: url('assets/images/henrique-01.jpg') "
-></div>
+
 <main class="content-wrapper">
   <header class="white-text-container section-container">
     <div class="text-center">
@@ -140,7 +139,34 @@
             </div>
           </div>
         </div>
-        
+     
+        <div class="card">
+          <div class="card-block">
+            <h2>Technical Skills</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <div class="education-experience">                  
+                  <h3 class="h5 date-title">Programming languages:</h3>
+                  <p><b>C#, C++, Python and Java<b></p>
+                </div>                
+              </div>
+              <div class="col-md-4">
+                <div class="education-experience">
+                  <small class="date">2018-2020</small>
+                  <h3 class="h5 date-title">Post Degree Artificial Intelligence</h3>
+                  <p><a href="https://www.linkedin.com/school/unibratec/">UNIBRATEC</a></p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="education-experience">
+                  <small class="date">2016-Incomplete</small>
+                  <h3 class="h5 date-title">Computer Science</h3>
+                  <p><a href="https://portal.unicap.br/">UNICAP - Universidade Católica de Pernambuco</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>	 
 
         <div class="card">
           <div class="card-block">
